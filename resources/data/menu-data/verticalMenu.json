@@ -1,0 +1,201 @@
+{
+    "menu": [
+        {
+            "url": "admin/dashboard",
+            "name": "Dashboards",
+            "icon": "trending-up",
+            "slug": ["admin.dashboard"]
+        },
+        {
+            "url": "admin/orders",
+            "name": "Đơn hàng",
+            "icon": "shopping-bag",
+            "slug": ["admin.orders.index", "admin.orders.show"]
+        },
+        {
+            "navheader": "Chức năng",
+            "slug": []
+        },
+        {
+            "name": "Khách hàng",
+            "icon": "users",
+            "url": "admin/customer",
+            "slug": ["admin.customer.index", "admin.customer.create", "admin.customer.edit"]
+        },
+        {
+            "name": "Quản lý sản phẩm",
+            "icon": "box",
+            "slug": [],
+            "submenu": [
+                {
+                    "url": "admin/product",
+                    "name": "Sản phẩm",
+                    "icon": "circle",
+                    "slug": ["admin.product.index", "admin.product.create", "admin.product.edit"]
+                },
+                {
+                    "url": "admin/product-category",
+                    "name": "Danh mục",
+                    "icon": "circle",
+                    "slug": ["admin.product-category.index", "admin.product-category.create", "admin.product-category.edit"]
+                },
+                {
+                    "url": "admin/product-attribute",
+                    "name": "Thuộc tính",
+                    "icon": "circle",
+                    "slug": ["admin.product-attribute.index", "admin.product-attribute.create", "admin.product-attribute.edit"]
+                },
+                {
+                    "url": "admin/tag-label",
+                    "name": "Tag sản phẩm",
+                    "icon": "circle",
+                    "slug": ["admin.tag-label.index", "admin.tag-label.create", "admin.tag-label.edit"]
+                }
+            ]
+        },
+        {
+            "name": "Flash Sale",
+            "icon": "box",
+            "slug": [],
+            "submenu": [
+                {
+                    "url": "admin/flash-sale",
+                    "name": "Quản lý flash sale",
+                    "icon": "circle",
+                    "slug": ["admin.flash-sale.index", "admin.flash-sale.create", "admin.flash-sale.edit"]
+                }
+
+            ]
+        },
+        {
+            "name": "Cấu hình dữ liệu",
+            "icon": "box",
+            "slug": [],
+            "submenu": [
+                {
+                    "url": "admin/test_system",
+                    "name": "Hệ thống kiểm tra",
+                    "icon": "circle",
+                    "slug": ["admin.test_system.index", "admin.test_system.create", "admin.test_system.edit"]
+                },
+                {
+                    "url": "admin/test_item",
+                    "name": "Mục kiểm tra",
+                    "icon": "circle",
+                    "slug": ["admin.test_item.index", "admin.test_item.create", "admin.test_item.edit"]
+                },
+                {
+                    "url": "admin/disease",
+                    "name": "Bệnh lý",
+                    "icon": "circle",
+                    "slug": ["admin.disease.index", "admin.disease.create", "admin.disease.edit"]
+                },
+                {
+                    "url": "admin/sample-data",
+                    "name": "Dữ liệu mẫu",
+                    "icon": "circle",
+                    "slug": ["admin.sample-data.index", "admin.sample-data.create", "admin.sample-data.edit"]
+                }
+            ]
+        },
+        {
+            "name": "Website",
+            "icon": "chrome",
+            "slug": [],
+            "submenu": [
+                {
+                    "url": "admin/coupon",
+                    "name": "Coupon",
+                    "icon": "circle",
+                    "slug": [
+                        "admin.coupon.index",
+                        "admin.coupon.create",
+                        "admin.coupon.edit"
+                    ]
+                },
+                {
+                    "url": "admin/banner",
+                    "name": "Banner",
+                    "icon": "circle",
+                    "slug": [
+                        "admin.banner.index",
+                        "admin.banner.create",
+                        "admin.banner.edit"
+                    ]
+                },
+                {
+                    "url": "admin/notification",
+                    "name": "Thông báo",
+                    "icon": "circle",
+                    "slug": [
+                        "admin.notification.index",
+                        "admin.notification.create",
+                        "admin.notification.edit"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Quản lý trang",
+            "icon": "chrome",
+            "slug": [],
+            "submenu": [
+                {
+                    "url": "admin/generalManagement",
+                    "name": "Trang",
+                    "icon": "circle",
+                    "slug": [
+                        "admin.generalManagement.index",
+                        "admin.generalManagement.create",
+                        "admin.generalManagement.edit"
+                    ]
+                },
+                {
+                    "url": "admin/contact",
+                    "name": "Trang liên hệ ",
+                    "icon": "circle",
+                    "slug": [
+                        "admin.contact.index",
+                        "admin.contact.create",
+                        "admin.contact.edit"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Khách hàng liên hệ",
+            "icon": "users",
+            "url": "admin/contact-form",
+            "slug": ["admin.customer.index"]
+        },
+        {
+            "navheader": "Quản trị",
+            "slug": []
+        },
+        {
+            "url": "admin/admin",
+            "name": "Tài khoản",
+            "icon": "user-check",
+            "slug": ["admin.admin.index", "admin.admin.create", "admin.admin.edit"]
+        },
+        {
+            "name": "Phân quyền",
+            "icon": "shield",
+            "slug": [],
+            "submenu": [
+                {
+                    "url": "admin/role",
+                    "name": "Nhóm quyền",
+                    "icon": "circle",
+                    "slug": ["admin.role.index", "admin.role.create", "admin.role.edit"]
+                },
+                {
+                    "url": "admin/permission",
+                    "name": "Quyền",
+                    "icon": "circle",
+                    "slug": ["admin.permission.index", "admin.permission.create", "admin.permission.edit"]
+                }
+            ]
+        }
+    ]
+}

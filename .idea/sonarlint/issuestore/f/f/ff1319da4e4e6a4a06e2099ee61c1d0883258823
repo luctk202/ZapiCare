@@ -1,0 +1,27 @@
+
+_php:S1038"KSplit this 178 characters long line (which is greater than 120 authorized).(ñÄª
+dphp:S103<"KSplit this 132 characters long line (which is greater than 120 authorized).(³‡Şâûÿÿÿÿ
+_php:S103@"KSplit this 164 characters long line (which is greater than 120 authorized).(èŸÎô
+_php:S103J"KSplit this 143 characters long line (which is greater than 120 authorized).(íñìå
+ephp:S103Ç"KSplit this 132 characters long line (which is greater than 120 authorized).(³‡Şâûÿÿÿÿ
+`php:S103İ"KSplit this 201 characters long line (which is greater than 120 authorized).(êÉŞ
+`php:S103á"KSplit this 189 characters long line (which is greater than 120 authorized).(”—öØ
+ephp:S103å"KSplit this 130 characters long line (which is greater than 120 authorized).(Ôú×ùÿÿÿÿ
+ephp:S103ù"KSplit this 128 characters long line (which is greater than 120 authorized).(ó‹ë·ÿÿÿÿÿ
+`php:S107"GThis function has 8 parameters, which is greater than the 7 authorized.( Çø˜ùÿÿÿÿ
+g	php:S1301^"MReplace this "switch" statement with "if" statements to increase readability.(íáËşıÿÿÿÿ
+g	php:S1301k"MReplace this "switch" statement with "if" statements to increase readability.(íáËşıÿÿÿÿ
+h	php:S1301Œ"MReplace this "switch" statement with "if" statements to increase readability.(íáËşıÿÿÿÿ
+h	php:S1301š"MReplace this "switch" statement with "if" statements to increase readability.(íáËşıÿÿÿÿ
+h	php:S1301è"MReplace this "switch" statement with "if" statements to increase readability.(³ÄçÚÿÿÿÿÿ
+h	php:S1301÷"MReplace this "switch" statement with "if" statements to increase readability.(³ÄçÚÿÿÿÿÿ
+i	php:S3776."TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(Ôà
+o	php:S3776­"TRefactor this function to reduce its Cognitive Complexity from 53 to the 15 allowed.(ìäºïøÿÿÿÿ
+>	php:S1481Y")Remove this unused "$key" local variable.(µÊ£
+?	php:S1481ã")Remove this unused "$key" local variable.(µÊ£
+Pphp:S131^"7Add a "case default" clause to this "switch" statement.(íáËşıÿÿÿÿ
+Pphp:S131k"7Add a "case default" clause to this "switch" statement.(íáËşıÿÿÿÿ
+Qphp:S131Œ"7Add a "case default" clause to this "switch" statement.(íáËşıÿÿÿÿ
+Qphp:S131š"7Add a "case default" clause to this "switch" statement.(íáËşıÿÿÿÿ
+Qphp:S131è"7Add a "case default" clause to this "switch" statement.(³ÄçÚÿÿÿÿÿ
+Qphp:S131÷"7Add a "case default" clause to this "switch" statement.(³ÄçÚÿÿÿÿÿ

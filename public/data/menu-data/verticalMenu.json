@@ -1,0 +1,144 @@
+{
+    "menu": [
+        {
+            "url": "admin/dashboard",
+            "name": "Dashboards",
+            "icon": "trending-up",
+            "slug": ["admin.dashboard"]
+        },
+        {
+            "navheader": "Chức năng",
+            "slug": []
+        },
+        {
+            "name": "Quản lý sản phẩm",
+            "icon": "box",
+            "slug": [],
+            "submenu": [
+                {
+                    "url": "admin/product",
+                    "name": "Sản phẩm",
+                    "icon": "circle",
+                    "slug": ["admin.product.index", "admin.product.create", "admin.product.edit"]
+                },
+                {
+                    "url": "admin/product-category",
+                    "name": "Danh mục",
+                    "icon": "circle",
+                    "slug": ["admin.product-category.index", "admin.product-category.create", "admin.product-category.edit"]
+                },
+                {
+                    "url": "admin/product-attribute",
+                    "name": "Thuộc tính",
+                    "icon": "circle",
+                    "slug": ["admin.product-attribute.index", "admin.product-attribute.create", "admin.product-attribute.edit"]
+                },
+                {
+                    "url": "admin/brand",
+                    "name": "Thương hiệu",
+                    "icon": "circle",
+                    "slug": ["admin.brand.index", "admin.brand.create", "admin.brand.edit"]
+                }
+            ]
+        },
+        {
+            "name": "Khách hàng",
+            "icon": "users",
+            "url": "admin/customer",
+            "slug": ["admin.customer.index", "admin.customer.create", "admin.customer.edit"]
+        },
+        {
+            "name": "Nhà phân phối",
+            "icon": "user-check",
+            "url": "admin/ctv",
+            "slug": ["admin.ctv.index", "admin.ctv.create", "admin.ctv.edit"]
+        },
+        {
+            "url": "admin/orders",
+            "name": "Đơn hàng",
+            "icon": "shopping-bag",
+            "slug": ["admin.orders.index", "admin.orders.show"]
+        },
+        {
+            "name": "Kế toán",
+            "icon": "book-open",
+            "slug": [],
+            "submenu": [
+                {
+                    "url": "admin/wallet",
+                    "name": "Lịch sử ví",
+                    "icon": "circle",
+                    "slug": ["admin.wallet.index"]
+                },
+                {
+                    "url": "admin/wallet-transaction",
+                    "name": "Nạp/rút ví",
+                    "icon": "circle",
+                    "slug": ["admin.wallet-transaction.index"]
+                }
+            ]
+        },
+        {
+            "name": "Cấu hình",
+            "icon": "settings",
+            "slug": [],
+            "submenu": [
+                {
+                    "url": "admin/group",
+                    "name": "Nhóm khách hàng",
+                    "icon": "circle",
+                    "slug": ["admin.group.index", "admin.group.create", "admin.group.edit"]
+                },
+                {
+                    "url": "admin/affiliate",
+                    "name": "Nhóm kinh doanh",
+                    "icon": "circle",
+                    "slug": ["admin.affiliate.index", "admin.affiliate.create", "admin.affiliate.edit"]
+                },
+                {
+                    "url": "admin/delivery-group",
+                    "name": "Nhóm vận hành",
+                    "icon": "circle",
+                    "slug": ["admin.delivery-group.index", "admin.delivery-group.create", "admin.delivery-group.edit"]
+                },
+                {
+                    "url": "admin/fee",
+                    "name": "Phí vận chuyển",
+                    "icon": "circle",
+                    "slug": ["admin.fee.index", "admin.fee.create", "admin.fee.edit"]
+                }
+            ]
+        },
+
+
+        {
+            "navheader": "Quản trị",
+            "slug": []
+        },
+        {
+            "url": "admin/admin",
+            "name": "Tài khoản",
+            "icon": "user-check",
+            "slug": ["admin.admin.index", "admin.admin.create", "admin.admin.edit"]
+        },
+        {
+            "name": "Phân quyền",
+            "icon": "shield",
+            "slug": [],
+            "submenu": [
+                {
+                    "url": "admin/role",
+                    "name": "Nhóm quyền",
+                    "icon": "circle",
+                    "slug": ["admin.role.index", "admin.role.create", "admin.role.edit"]
+                },
+                {
+                    "url": "admin/permission",
+                    "name": "Quyền",
+                    "icon": "circle",
+                    "slug": ["admin.permission.index", "admin.permission.create", "admin.permission.edit"]
+                }
+            ]
+        }
+    ]
+}

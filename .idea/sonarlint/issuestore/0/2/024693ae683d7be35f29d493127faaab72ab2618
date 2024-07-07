@@ -1,0 +1,15 @@
+
+„php:S103/"KSplit this 150 characters long line (which is greater than 120 authorized).(á¿èwJ$bbb330d7-d8e3-45d8-9d5d-187e2f264c7d
+Šphp:S1035"KSplit this 142 characters long line (which is greater than 120 authorized).(êí“õüÿÿÿÿJ$ddc9efb8-0573-4caf-8b27-65436802cca1
+Šphp:S103:"KSplit this 133 characters long line (which is greater than 120 authorized).(¥Ü¨ïúÿÿÿÿJ$3cd327ee-9fed-42c6-845f-f7c07e4f6e8a
+Šphp:S103<"KSplit this 166 characters long line (which is greater than 120 authorized).(üœÔ‰þÿÿÿÿJ$a9917c8c-e5aa-4e42-afdc-a672b1b24ec2
+Šphp:S103="KSplit this 145 characters long line (which is greater than 120 authorized).(©Ç›ÅÿÿÿÿÿJ$21b8f10a-60ef-47c5-8732-6cb6116248e7
+Šphp:S103@"KSplit this 164 characters long line (which is greater than 120 authorized).(ç’ÀùúÿÿÿÿJ$f08b4509-99ec-4a38-bd89-79c610226b4a
+…php:S103B"KSplit this 309 characters long line (which is greater than 120 authorized).(úò‡÷J$af14dfcc-e123-44e2-a45a-491fb7927de5
+Šphp:S103C"KSplit this 299 characters long line (which is greater than 120 authorized).(«ÀÝîþÿÿÿÿJ$1c41d3bf-454f-4244-a530-cac59f02fb18
+…php:S103H"KSplit this 124 characters long line (which is greater than 120 authorized).(ôÂïéJ$31ec2808-7468-436a-aa53-f196bde69f3c
+php:S100"VRename function "error_processor" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ûüœ¹J$1a99afb7-0d6b-4466-a6bb-97bde363dcab
+šphp:S117"`Rename this local variable "$DefaultData" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(Ô¾—ÎJ$13a150e7-08a8-4c5a-a2e1-c68bc84bb2a5
+”	php:S3776"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ìÍ„ºüÿÿÿÿJ$75a5843d-a187-4b4e-855e-10bd780f8f86
+h	php:S1172"-Remove the unused function parameter "$lang".(Ô§Í²J$f382e291-ba45-4636-9be8-2e89653be4de
+p	php:S1066–"/Merge this if statement with the enclosing one.(é¯§úÿÿÿÿJ$2bfb4d66-9b62-46ec-81a1-af3cac22220c

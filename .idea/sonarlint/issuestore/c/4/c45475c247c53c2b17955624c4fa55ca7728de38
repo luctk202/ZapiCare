@@ -1,0 +1,9 @@
+
+dphp:S103"KSplit this 156 characters long line (which is greater than 120 authorized).(ïÁ­Øúÿÿÿÿ
+dphp:S103?"KSplit this 131 characters long line (which is greater than 120 authorized).(þ«»ºüÿÿÿÿ
+_php:S103D"KSplit this 173 characters long line (which is greater than 120 authorized).(¾‰€Á
+_php:S103^"KSplit this 169 characters long line (which is greater than 120 authorized).(Ôì€¦
+u	php:S11922"[Define a constant instead of duplicating this literal "Danh sÃ¡ch nhÃ  cung cáº¥p" 3 times.(ä•¸žýÿÿÿÿ
+9php:S125µ"Remove this commented out code.(èÅ¸’ÿÿÿÿÿ
+9php:S125¿"Remove this commented out code.(£Î˜Àúÿÿÿÿ
+Kphp:S131˜"7Add a "case default" clause to this "switch" statement.(—ÀÅ	

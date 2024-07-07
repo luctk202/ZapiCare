@@ -1,0 +1,9 @@
+
+h	php:S1192."NDefine a constant instead of duplicating this literal "auth:sanctum" 12 times.(™£Äèÿÿÿÿÿ
+`	php:S1192@"FDefine a constant instead of duplicating this literal "/{id}" 7 times.(àÀšÆşÿÿÿÿ
+b	php:S1192†"GDefine a constant instead of duplicating this literal "/count" 3 times.(¯è…ıÿÿÿÿ
+<	php:S2003ã"&Replace "require" with "require_once".(ÌìÊç
+<	php:S2003æ"&Replace "require" with "require_once".(¶úöì
+3php:S125%"Remove this commented out code.(çÌÙĞ
+b	php:S4833ã"LReplace "require" with namespace import mechanism through the "use" keyword.(ÌìÊç
+b	php:S4833æ"LReplace "require" with namespace import mechanism through the "use" keyword.(¶úöì
